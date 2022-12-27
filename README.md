@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# <h1>Movie Clone web Page</h1>
+<h2/>기간: 12.18-21
+설명: 넷플릭스 Clone Web Page 입니다.
+
+-기능
+Axios를 사용하여 themoviedb를 가져와 사용했습니다.
+Banner.js  useEffect를 사용하여 화면 사진이 랜덤으로 나오도록 하였습니다.
+배경이미지 는 tmdbs url를 불러와 사용하였습니다.
+tbdb API key가져와 영화를 불러왔습니다.
 
 
 ### Videos
